@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 |    | Self Case Study1: | |
 | **Guided Case Studies/Projects**  | Real life guided (as part of courses) Case studies In Detail  | Respective links👇|
 |  |Guided Case Study1: | |
+| **MTech Minor Project**  | Text summarization using the State of the art Technique-*Bert Algorithm*| *Going On*|
+| **MTech Major Project**  |  *Yet to start*| |
 | **MTech Course Projects**  | Ipython notebook,Reoprt PDF and PPT presentation Included| Respective links👇|
 |  |1. Image compression using Improved Huffman coding|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
 |  |2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification |[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
