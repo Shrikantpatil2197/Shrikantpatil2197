@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **Following is the overview of my all GitHub Reapositories(To save your valuable time😀) so that you can directly jump to the required content.**
 
-## | Topic| Remarks   | Link  |
+| **Topic**| **Remarks**   | **Links** |
 |------------- |:-------------:| :-----:|
 | **My Data Science Roadmap**   | All about my data science journey| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
 | **Self Case Studies/Projects**  | Real life self Case studies In Detail  | Respective links👇|
