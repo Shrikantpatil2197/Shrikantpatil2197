@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I am currently pursuing Masters in `Signal Processing and Machine Learning` at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)**
+## I am currently pursuing Masters in *Signal Processing and Machine Learning* at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)
 
 **I am currently learning Machine Learning and Data Science😍**
 
