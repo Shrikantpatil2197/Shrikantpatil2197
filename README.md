@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 | **MTech Course Projects**  | Ipython notebook,Reoprt PDF and PPT presentation Included| Respective links👇|
 |  |1. Image compression using Improved Huffman coding|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
 |  |2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification |[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
-| **Pyhton Hands on**  | Fundamental python In Detail  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb) and |
+| **Pyhton Hands on**  | Fundamental python In Detail  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
 |   | Intermediate Python In Detail  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
 |      | OOPs in Python  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
 | **NUMPY Hands on**  | Numpy Library In Detail  | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
