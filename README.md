@@ -21,10 +21,19 @@ Here are some ideas to get you started:
 
 **Following is the overview of my all GitHub Reapositories(To save your valuable time😀) so that you can directly jump to the required content.**
 
-|`Topic`| `Remarks`    | `Link`  |
+|**`Topic`| `Remarks`    | `Link`  |
 | ------------- |:-------------:| :-----:|
 | My Data Science Roadmap    | All about my data science journey| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
-| col 2 is      | centered      |   $12 |
+| Self Case Studies/Projects  | Real life self Case studies In Detail  | Respective links👇|
+| 👉  | Self Case Study1: | |
+| Guided Case Studies/Projects  | Real life guided (as part of courses) Case studies In Detail  | Respective links👇|
+| 👉  |Guided Case Study1: | |
+| Pyhton Hands on  | Fundamental python In Detail  | [python1.ipynb]() and [python2.ipynb]()|
+| NUMPY Hands on  | Numpy Library In Detail  | [Numpy.ipynb]() |
+| Pandas Hands on  | Pandas Library In Detail  | [Pandas.ipynb]() |
+| Matplotlib Hands on  | Matplotlib Library In Detail  | [Matplotlib.ipynb]() |
+| ScikitLearn Hands on  | ScikitLearn Library In Detail  | [ScikitLearn.ipynb]() |
+| NUMPY Hands on  | Numpy Library In Detail  | [Numpy.ipynb]() |
 | zebra stripes | are neat      |    $1 |    
 
 
