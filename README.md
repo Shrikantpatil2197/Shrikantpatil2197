@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 |`Topic`| `Remarks`    | `Link`  |
 | ------------- |:-------------:| -----:|
-| My Data Science Roadmap    | All about my data science journey| [Complete_data_scientist_roadmap(https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
+| My Data Science Roadmap    | All about my data science journey| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |    
 
