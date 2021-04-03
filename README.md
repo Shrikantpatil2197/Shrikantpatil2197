@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 |------------- |:-------------:| :-----:|
 | **My Data Science Roadmap**   | All about my data science journey| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
 | **Self Case Studies/Projects**  | Real life self Case studies In Detail  | Respective links👇|
-| 👉  | Self Case Study1: | |
+|    👉| Self Case Study1: | |
 | **Guided Case Studies/Projects**  | Real life guided (as part of courses) Case studies In Detail  | Respective links👇|
-| 👉  |Guided Case Study1: | |
+|   👉|Guided Case Study1: | |
 | **Pyhton Hands on**  | Fundamental python In Detail  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb) and |
-| 👉 | Intermediate Python In Detail  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
-|  👉| OOPs in Python  | [OOPs.ipynb]() |
+|   👉| Intermediate Python In Detail  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
+|      👉| OOPs in Python  | [OOPs.ipynb]() |
 | **NUMPY Hands on**  | Numpy Library In Detail  | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
 | **Pandas Hands on** | Pandas Library In Detail  | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
 | **Matplotlib Hands on**  | Matplotlib Library In Detail  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
