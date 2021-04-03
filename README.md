@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **Following is the overview of my all GitHub Reapositories(To save your valuable time😀) so that you can directly jump to the required content.**
 
 |`Topic`| `Remarks`    | `Link`  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | My Data Science Roadmap    | All about my data science journey| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |    
