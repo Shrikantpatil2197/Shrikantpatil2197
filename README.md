@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 | **Pyhton Hands on**  | Fundamental python In Detail  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
 |   | Intermediate Python In Detail  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
 |      | OOPs in Python  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
-| **NUMPY Hands on**  | Numpy Library In Detail  | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
+| **Numpy Hands on**  | Numpy Library In Detail  | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
 | **Pandas Hands on** | Pandas Library In Detail  | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
 | **Matplotlib Hands on**  | Matplotlib Library In Detail  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
 | **ScikitLearn Hands on**  | ScikitLearn Library In Detail  | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
