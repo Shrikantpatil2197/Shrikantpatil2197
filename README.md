@@ -21,14 +21,9 @@ Here are some ideas to get you started:
 
 **Following is the overview of my all GitHub Reapositories(To save your valuable time😀) so that you can directly jump to the required content.**
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables                        |       Are                                         |                                       Cool  |
+| ------------------------------|:-------------------------------------------------:|--------------------------------------------:|
+| col 3 is                      |                                     right-aligned |                                       $1600 |
+| col 2 is                      |                                     centered      |                                         $12 |
+
 
