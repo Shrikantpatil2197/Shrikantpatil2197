@@ -34,13 +34,16 @@ Here are some ideas to get you started:
 |  |**1. Image compression using Improved Huffman coding**|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
 |  |**2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification** |[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
 | **Machine Learning from scratch**  | **ML algorithms implemented in python from scratch (To understand the maths behind the scenes🤩)** | [ML_From_Scratch](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
-| **Pyhton Hands on**  | **Fundamental python In Detail**  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
-|   | **Intermediate Python In Detail**  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
+| **Machine Learning Hands_on**  | **ML libraries and algorithms hands-on** | [ML_From_Scratch](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
+| |**Natural Language Processing Hands on**   |Respective links👇 |
+| |**1. Introduction to NLP**   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/tree/main/NLP_hands_on/python_notebooks) |
+|   | **ScikitLearn Hands on** | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
+| |**Pandas Hands on**   | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
+|   | **Matplotlib Hands on**  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
+|   | **Numpy Hands on** | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
 |      | **OOPs in Python**  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
-| **Numpy Hands on**  | **Numpy Library In Detail** | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
-| **Pandas Hands on** |**Pandas Library In Detail**  | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
-| **Matplotlib Hands on**  | **Matplotlib Library In Detail**  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
-| **ScikitLearn Hands on**  | **ScikitLearn Library In Detail** | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
+|   | **Intermediate Python**  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
+|  | **Pyhton Hands on**  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
 
 
 
