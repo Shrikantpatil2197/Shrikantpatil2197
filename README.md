@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |    | **Self Case Study1:** | |
 | **Guided Case Studies/Projects**  | **👉Real life guided (as part of courses) Case studies In Detail**  | Respective links👇|
 |  |**Guided Case Study1:** | |
-| **MTech Minor Project**  | **👉RText summarization using the State of the art Technique-*Bert Algorithm***| *Going On*|
+| **MTech Minor Project**  | **👉Text summarization using the State of the art Technique-*Bert Algorithm***| *Going On*|
 | **MTech Major Project**  |  *Yet to start*| |
 | **MTech Course Projects**  | **👉Ipython notebook,Reoprt PDF and PPT presentation Included**| Respective links👇|
 |  |**1. Image compression using Improved Huffman coding**|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
