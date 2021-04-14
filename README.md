@@ -31,22 +31,22 @@ Here are some ideas to get you started:
 | **MTech Minor Project**  | **👉Text summarization using the State of the art Technique-*Bert Algorithm***| *Going On*|
 | **MTech Major Project**  |  *Yet to start*| |
 | **MTech Course Projects**  | **👉Ipython notebook,Reoprt PDF and PPT presentation Included**| Respective links👇|
-|  |**1. Image compression using Improved Huffman coding**|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
-|  |**2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification** |[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
+|  |1. Image compression using Improved Huffman coding|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
+|  |2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification|[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
 | **Machine Learning from scratch**  | **👉ML algorithms implemented in python from scratch (To understand the maths behind the scenes🤩)** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
 | **Machine Learning Hands_on**  | **👉All About Machine Learning** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On)|
 | |**👉A. Natural Language Processing Hands on**   |Respective links👇 |
-| |**1. Introduction to NLP**   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb) |
-| |**2. Feature Engineering For NLP**   |[Feature_Engineering_for_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Feature_Engineering_for_NLP.ipynb) |
+| |1. Introduction to NLP   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb) |
+| |2. Feature Engineering For NLP   |[Feature_Engineering_for_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Feature_Engineering_for_NLP.ipynb) |
 |  |**👉B. Advanced ML Libraries Hands on**   | Respective links👇 |
-|   | **1. ScikitLearn Hands on** | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
+|   | 1. ScikitLearn Hands on | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
 | |**👉C. Basic Libraries Hands_on**   | Respective links👇 |
-|  |**1. Pandas Hands on**   | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
-|   | **2. Matplotlib Hands on**  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
-|   | **3. Numpy Hands on** | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
+|  |1. Pandas Hands on   | [Pandas.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/pandas.ipynb) |
+|   | 2. Matplotlib Hands on  | [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb) |
+|   | 3. Numpy Hands on | [Numpy.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/numpy.ipynb) |
 |  |**👉D. Python Programming Hands_on** | Respective links👇 |
-|   | **1. OOPs in Python**  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
-|   | **2. Intermediate Python**  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
-|  | **3. Pyhton Hands on**  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
+|   | 1. OOPs in Python  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
+|   | 2. Intermediate Python  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
+|  | 3. Pyhton Hands on  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
 
 
