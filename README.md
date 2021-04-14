@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 | **Machine Learning from scratch**  | **👉ML algorithms implemented in python from scratch (To understand the maths behind the scenes🤩)** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
 | **Machine Learning Hands_on**  | **👉All About Machine Learning** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On)|
 | |**👉A. Natural Language Processing Hands on**   |Respective links👇 |
-| |**1. Introduction to NLP**   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/tree/main/NLP_hands_on/python_notebooks) |
+| |**1. Introduction to NLP**   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb) |
+| |**2. Feature Engineering For NLP**   |[Feature_Engineering_for_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Feature_Engineering_for_NLP.ipynb) |
 |  |**👉B. Advanced ML Libraries Hands on**   | Respective links👇 |
 |   | **1. ScikitLearn Hands on** | [ScikitLearn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)|
 | |**👉C. Basic Libraries Hands_on**   | Respective links👇 |
@@ -47,6 +48,5 @@ Here are some ideas to get you started:
 |   | **1. OOPs in Python**  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
 |   | **2. Intermediate Python**  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
 |  | **3. Pyhton Hands on**  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
-
 
 
