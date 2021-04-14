@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 | **Topic**| **Remarks**   | **Links** |
 |------------- |:-------------:| :-----:|
-| **My Data Science Roadmap**  | **👉All about my data science journey**| [Complete_data_scientist_roadmap](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
+| **My Data Science Roadmap**  | **👉All about my data science journey**| [Repository](https://github.com/Shrikantpatil2197/Complete_data_scientist_roadmap/blob/main/README.md) |
 | **Self Case Studies/Projects**  | **👉Real life self Case studies In Detail**  | Respective links👇|
 |    | **Self Case Study1:** | |
 | **Guided Case Studies/Projects**  | **👉Real life guided (as part of courses) Case studies In Detail**  | Respective links👇|
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 | **MTech Course Projects**  | **👉Ipython notebook,Reoprt PDF and PPT presentation Included**| Respective links👇|
 |  |**1. Image compression using Improved Huffman coding**|[Project Rpository](https://github.com/Shrikantpatil2197/Project_image_compression_using_Improved_Huffman_coding)|
 |  |**2. Plant Leaf Image Preprocessing for Disease Detection And Plant Classification** |[Project Rpository](https://github.com/Shrikantpatil2197/Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification) |
-| **Machine Learning from scratch**  | **👉ML algorithms implemented in python from scratch (To understand the maths behind the scenes🤩)** | [ML_From_Scratch](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
-| **Machine Learning Hands_on**  | **👉All About Machine Learning** | [ML_From_Scratch](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
+| **Machine Learning from scratch**  | **👉ML algorithms implemented in python from scratch (To understand the maths behind the scenes🤩)** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_From_Scratch)|
+| **Machine Learning Hands_on**  | **👉All About Machine Learning** | [Repository](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On)|
 | |**👉A. Natural Language Processing Hands on**   |Respective links👇 |
 | |**1. Introduction to NLP**   |[Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/tree/main/NLP_hands_on/python_notebooks) |
 |  |**👉B. Advanced ML Libraries Hands on**   | Respective links👇 |
