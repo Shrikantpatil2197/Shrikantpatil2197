@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+# 🤩🤩I am Electronics and Computer Science Enthusiastic!!😍😍
 # I am *Exploring* Machine Learning, Data Science, Signal Processing, IOT, Embedded Systems, Wireless Technology and much more....😍
 **I am currently pursuing Masters in *Signal Processing and Machine Learning* at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)**
 
