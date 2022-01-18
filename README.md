@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I study Electronics and Computer Science Engineering!!😍
-# Specializing in Machine Learning, Data Science, Computer Architecture, Signal Processing, IOT, Embedded Systems, Wireless communication and AI🔥
+## I study Electronics and Computer Science Engineering!!😍
+## Specializing in Machine Learning, Data Science, Computer Architecture, Signal Processing, IOT, Embedded Systems, Wireless communication and AI🔥
 **Currently pursuing my Masters in *Signal Processing and Machine Learning* at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)**
 
 **Below are quick links to some of my special repositories.**
