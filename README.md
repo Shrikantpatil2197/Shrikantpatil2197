@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🤩I am Electronics and Computer Science *Explorer*!!😍
-# I am *Exploring* Machine Learning, Data Science, Computer Architecture, Signal Processing, IOT, Embedded Systems, Wireless Technology and much more....😍
-**I am currently pursuing Masters in *Signal Processing and Machine Learning* at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)**
+# 🤩I study Electronics and Computer Science Engineering!!😍
+# Specializing in Machine Learning, Data Science, Computer Architecture, Signal Processing, IOT, Embedded Systems, Wireless communication and AI🔥
+**Currently pursuing my Masters in *Signal Processing and Machine Learning* at [National Institute of Technology Surathkal,Karnataka,India](https://www.nitk.ac.in/) (NITK)**
 
 **Following is the overview of my all GitHub Reapositories(To save your valuable time😀) so that you can directly jump to the required content.**
 
