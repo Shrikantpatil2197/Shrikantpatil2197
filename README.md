@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 | **Topic**| **Remarks**   | **Links** |
 |------------- |:-------------:| :-----:|
-|  |**👉D. Python Programming Hands_on** | Respective links👇 |
+| **Python** |**Hands_on** | Respective links👇 |
 |   | 1. OOPs in Python  | [OOPs.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/object_oriented_programming.ipynb) |
 |   | 2. Intermediate Python  | [python2.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python1.ipynb) |
 |  | 3. Pyhton Hands on  | [python1.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/python0.ipynb)|
